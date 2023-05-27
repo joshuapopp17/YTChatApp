@@ -11,12 +11,12 @@ function App() {
   
   // ADD THE FIREBASE INFO HERE TO TEST THE APP 
   const firebaseConfig = {
-    apiKey: "AIzaSyDPNd3_CWNcZKFF2Krrub1KTi1Ed8IrYiQ",
-    authDomain: "chatapp-e272b.firebaseapp.com",
-    projectId: "chatapp-e272b",
-    storageBucket: "chatapp-e272b.appspot.com",
-    messagingSenderId: "276064633381",
-    appId: "1:276064633381:web:acd4a1d1b97ecaf9a9b5cc"
+    apiKey: "xxxx",
+    authDomain: "xxxx",
+    projectId: "xxxx",
+    storageBucket: "xxxx",
+    messagingSenderId: "xxxx",
+    appId: "xxxx"
   };
 
   // Initialize Firebase
