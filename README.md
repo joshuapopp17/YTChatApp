@@ -7,11 +7,11 @@ For this project I used ReactJS with pure css to create the front end.
 For the backend I used Firebase Authentication amd Firestore.
 
 
-## I have a video of it working since I don't have .env working yet
+## Video of Project
 
 [Video URL](https://youtu.be/bx3UoKuqKhA)
-
+(getting .env figured out before making it public
 
 ## Goals
 
-My next goal is to turn this into a chrome extension that can read the tab url as the chatroom automatically. 
+- Turn it into a chrome extension
