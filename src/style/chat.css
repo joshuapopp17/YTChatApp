@@ -1,0 +1,55 @@
+.main-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    gap: 10px;
+}
+
+.chat-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    height: 600px;
+    overflow-y: scroll;
+    margin-right: 10px;
+    margin-left: 10px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.messagesender {
+    width: 600px;
+    display: flex ;
+}
+
+.input {
+    font-size: 1.2em;
+    padding: 5px;
+    border-radius: .3em;
+}
+
+.welcome-header {
+    font-size: 3em;
+}
+
+.text {
+    font-size: 1.2em;
+    text-align: center;
+}
+
+.logo-brand {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-top: 1em;
+}

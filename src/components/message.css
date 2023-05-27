@@ -1,0 +1,32 @@
+.message-container {
+    display: flex;
+    flex-direction: row;
+    margin-top: .5em;
+    margin-bottom: .5em;
+    width: 500px;
+}
+
+.message-body {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: .3em;
+    padding-bottom: .5em;
+    padding-top: .5em;
+}
+
+.message {
+    font-size: 1em;
+}
+
+.username {
+    font-size: 1.2em;
+    font-weight: 600;
+}
+
+.date {
+    color: #838383;
+    font-weight: 500;
+}

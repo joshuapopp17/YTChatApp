@@ -1,0 +1,14 @@
+.button {
+    border: none;
+    padding: .5em;
+    border-radius: .3em;
+    font-size: 1.2em;
+    background-color: black;
+    color: azure;
+    transition: background-color .13s;
+}
+
+.button:hover {
+    cursor: pointer;
+    background-color: rgb(121, 121, 121);
+}
